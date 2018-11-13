@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+# Please adapt and uncomment the following lines:
+#	name = PJ Frias
+#	email = pj@SmartLogic.io
+[user]
+    name = PJ Frias
+	email = pj@SmartLogic.io
+[alias]
+	co = checkout
